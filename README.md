@@ -34,12 +34,11 @@ git clone https://github.com/yourusername/voice-transcription-system.git
 cd voice-transcription-system
 
 
-## 2. Create a .env file in the /server directory
-```bash
+Create a .env file in the /server directory:
 
 REACT_APP_API_KEY=your_assemblyai_api_key_here
 
-## 3. Usage
+Usage
 
 Start backend:
 
@@ -53,7 +52,7 @@ Open your browser:
 
 http://localhost:3000
 
-## Important Notes
+Important Notes
 
 Must have FFmpeg installed and path set properly in backend.
 
