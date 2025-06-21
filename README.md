@@ -34,11 +34,12 @@ git clone https://github.com/yourusername/voice-transcription-system.git
 cd voice-transcription-system
 
 
-### 2. Create a .env file in the /server directory:
+## 2. Create a .env file in the /server directory
+```bash
 
 REACT_APP_API_KEY=your_assemblyai_api_key_here
 
-### 3. Usage
+## 3. Usage
 
 Start backend:
 
