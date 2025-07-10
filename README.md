@@ -39,17 +39,17 @@ cd voice-transcription-system
 
 REACT_APP_API_KEY=your_assemblyai_api_key_here
 
-#### Usage
+### 3. Usage
 
-Start backend:
+#### Start backend:
 
 node server.js
 
-Start frontend:
+#### Start frontend:
 
 npm start
 
-Open your browser:
+#### Open your browser:
 
 http://localhost:3000
 
