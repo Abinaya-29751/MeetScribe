@@ -29,16 +29,17 @@ A **full-stack voice transcription web application** that allows users to record
 ## Installation & Setup Guide
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/yourusername/voice-transcription-system.git
+
 cd voice-transcription-system
 
 
-Create a .env file in the /server directory:
+### 2. Create a .env file in the /server directory:
 
 REACT_APP_API_KEY=your_assemblyai_api_key_here
 
-Usage
+#### Usage
 
 Start backend:
 
@@ -52,7 +53,7 @@ Open your browser:
 
 http://localhost:3000
 
-Important Notes
+### Important Notes
 
 Must have FFmpeg installed and path set properly in backend.
 
