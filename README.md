@@ -59,3 +59,5 @@ Must have FFmpeg installed and path set properly in backend.
 Requires valid AssemblyAI API Key.
 
 Temporary uploaded files are automatically cleaned up after transcription.
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/89c17610-9d22-4b87-a99f-51fa3b85a666" />
